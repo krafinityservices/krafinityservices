@@ -1,4 +1,4 @@
-### [TechBuddy Service Website](https://github.com/krafinityservices/techbuddy-service-website-case-study)
+### krafinity services
 
 ### Custom Business Systems · Web Applications · Digital Solutions
 
