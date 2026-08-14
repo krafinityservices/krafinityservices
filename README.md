@@ -62,7 +62,7 @@ A customer-facing platform for repair services, refurbished devices, rentals, qu
 
 ---
 
-## Gunara
+## [Gunara](https://github.com/krafinityservices/gunara-platform-case-study)
 
 **Gamified Outdoor Adventure Web Platform**
 
@@ -70,11 +70,11 @@ An ongoing product concept combining quests, XP progression, ranks, community ex
 
 `React` · `Product Development` · `Gamification` · `Interactive Experience`
 
-**Case study coming soon**
+[View Case Study →](https://github.com/krafinityservices/gunara-platform-case-study)
 
 ---
 
-## Custom Booking & Scheduling System
+## [Custom Booking & Scheduling System](https://github.com/krafinityservices/booking-system-demo)
 
 **Service Business Booking Platform**
 
@@ -82,7 +82,7 @@ A custom scheduling workflow covering service selection, staff selection, slot a
 
 `Booking` · `Scheduling` · `Admin Dashboard` · `Workflow`
 
-**Case study coming soon**
+[View Case Study →](https://github.com/krafinityservices/booking-system-demo)
 
 ---
 
