@@ -24,8 +24,7 @@ Krafinity Services focuses on custom web applications, internal business systems
 ### TechBuddy Management System
 Custom repair-business management platform covering jobsheets, customer records, warranty tracking, inventory, supplier traceability, invoicing, payments, expenses, and operational workflows.
 
-### TechBuddy UiTM Service Website
-Responsive customer-facing website with repair services, refurbished devices, rentals, quotation access, and live repair status tracking connected to internal service records.
+### [TechBuddy Service Website](https://github.com/krafinityservices/techbuddy-service-website-case-study)
 
 ### Gunara
 Work-in-progress gamified outdoor web platform combining quests, XP progression, ranks, events, community experiences, interactive products, and operational management tools.
